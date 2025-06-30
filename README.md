@@ -1,4 +1,4 @@
-# Finstein Portfolio
+# Nandhini Portfolio
 
 Welcome to my personal portfolio! This project showcases my work, skills, and experience as a developer.
 
